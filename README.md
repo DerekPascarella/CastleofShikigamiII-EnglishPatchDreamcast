@@ -138,7 +138,7 @@ When invincibility is active, enemy attacks no longer hit the player. Note that 
 
 ## Completed Save
 
-<img align="right" width="267" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/vmu.png?raw=true">Much of the extra content in "Castle of Shikigami II" is unlocked through extended play, such as the Practice and Story Replay modes, the EXTRA OPTIONS menu, every image in the Gallery, and the FREE PLAY setting.
+<img align="right" width="200" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/vmu.png?raw=true">Much of the extra content in "Castle of Shikigami II" is unlocked through extended play, such as the Practice and Story Replay modes, the EXTRA OPTIONS menu, every image in the Gallery, and the FREE PLAY setting.
 
 For convenience, a completed save file is available here with all of this content unlocked. Since this save was created for this English translation patch, its VMU file name and icon appear in English.
 
