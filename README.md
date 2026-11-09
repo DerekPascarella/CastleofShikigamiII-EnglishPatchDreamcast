@@ -73,7 +73,7 @@
 Even after extensive testing on both real hardware and on emulators, the presence of bugs or typos may be possible. Should a player encounter any such issue, it's kindly requested that they [submit a new issue](https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/issues/new) to this project page, including as much detailed information as possible.
 
 ## What's Changed
-<img align="right" width="267" height="200" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/images/screenshot_1.png?raw=true">
+<img align="right" width="267" height="200" src="https://github.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast/blob/main/screenshot_1.png?raw=true">
 
 Below is a high-level list of changes implemented for this English translation patch.
 
@@ -138,7 +138,7 @@ When invincibility is active, enemy attacks no longer hit the player. Note that 
 
 ## Completed Save
 
-<img align="right" width="267" height="200" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/vmu.png?raw=true">Much of the extra content in "Castle of Shikigami II" is unlocked through extended play, such as the Practice and Story Replay modes, the EXTRA OPTIONS menu, every image in the Gallery, and the FREE PLAY setting.
+<img align="right" width="267" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/vmu.png?raw=true">Much of the extra content in "Castle of Shikigami II" is unlocked through extended play, such as the Practice and Story Replay modes, the EXTRA OPTIONS menu, every image in the Gallery, and the FREE PLAY setting.
 
 For convenience, a completed save file is available here with all of this content unlocked. Since this save was created for this English translation patch, its VMU file name and icon appear in English.
 
