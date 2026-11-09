@@ -130,7 +130,7 @@ The game was also released on the GameCube, PlayStation 2, Xbox, and Windows. On
 
 ## Invincibility Mode
 
-<img align="right" width="267" height="200" src="https://github.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/blob/main/images/invincibility_mode.png?raw=true">A brand-new invincibility mode has been implemented for this English translation patch to aid players who are interested in experiencing the story of "Castle of Shikigami II" regardless of their shoot-'em-up skill level.
+<img align="right" width="267" src="https://github.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast/blob/main/invincibility_mode.png?raw=true">A brand-new invincibility mode has been implemented for this English translation patch to aid players who are interested in experiencing the story of "Castle of Shikigami II" regardless of their shoot-'em-up skill level.
 
 To take advantage of this new feature, a player can navigate to **OPTIONS** from the title screen menu, then select **INVINCIBLE** and toggle the setting to "ON" or "OFF".
 
